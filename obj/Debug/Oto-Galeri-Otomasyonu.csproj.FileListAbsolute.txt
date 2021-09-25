@@ -1,0 +1,17 @@
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\bin\Debug\Oto-Galeri-Otomasyonu.exe.config
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\bin\Debug\Oto-Galeri-Otomasyonu.exe
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\bin\Debug\Oto-Galeri-Otomasyonu.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto-Galeri-Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto_Galeri_Otomasyonu.LoginForm.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto_Galeri_Otomasyonu.Menu.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto_Galeri_Otomasyonu.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto-Galeri-Otomasyonu.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto-Galeri-Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto-Galeri-Otomasyonu.exe
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto-Galeri-Otomasyonu.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto_Galeri_Otomasyonu.AracBilgileri.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto_Galeri_Otomasyonu.Aracİslemleri.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto_Galeri_Otomasyonu.Musteriİslemleri.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto_Galeri_Otomasyonu.AracKiralama.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto_Galeri_Otomasyonu.AracSatis.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Oto-Galeri-Otomasyonu\Oto-Galeri-Otomasyonu\obj\Debug\Oto_Galeri_Otomasyonu.Ayarlar.resources
